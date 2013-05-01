@@ -17,4 +17,4 @@ title: About
 1. markdown
 1. bootstrap
 
-[robot](http://www.quorrischarmyn.com/wp-content/uploads/2013/01/nod32robot.png)
+![robot](http://www.quorrischarmyn.com/wp-content/uploads/2013/01/nod32robot.png)
