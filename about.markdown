@@ -13,6 +13,6 @@ title: About
 
 ## Labs
 
-# github page
-# markdown
-# bootstrap
+1. github page
+- markdown
+- bootstrap
